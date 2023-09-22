@@ -51,4 +51,4 @@ Embedded in this repository are various visualizations, including line charts an
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/hafidaso/Internet-A-Global-Phenomenon-and-Morocco/blob/0af8d1d451b0adb9c5aacdd9b2bd54570d2739d9/LICENSE) file for details.
