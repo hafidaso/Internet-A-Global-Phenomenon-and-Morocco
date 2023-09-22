@@ -1,4 +1,3 @@
-# Internet-A-Global-Phenomenon-and-Morocco
 
 # Global Internet Usage Analysis
 
