@@ -3,7 +3,7 @@
 
 An in-depth analysis of global internet access and adoption from 1990 to 2020.
 
-![Banner Image: Global Internet Map](path_to_your_image.jpg) <!-- Replace with the link to any banner image you want to use -->
+![Banner Image: Global Internet Map](banner_image.png) <!-- Replace with the link to any banner image you want to use -->
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Both datasets span from 1990 to 2020 and index on country, region, or group.
 
 ## Key Findings
 
-- The top 5 countries in terms of internet usage by population share in 2020 are: UAE, Bahrain, Qatar, Kuwait, and Iceland.
+- The top 5 countries in terms of internet usage by population share in 2020 are UAE, Bahrain, Qatar, Kuwait, and Iceland.
 - Morocco has witnessed significant digital growth, surpassing the global average with an 84.12% internet usage share in 2020.
 - A strong positive correlation exists between broadband subscriptions and overall internet usage, underscoring the importance of stable, high-speed connections.
 
@@ -47,7 +47,7 @@ Embedded in this repository are various visualizations, including line charts an
 
 ## Contributors
 
-- [Your Name](your_github_profile_link) <!-- Replace with your name and GitHub profile link -->
+- [Hafida Belayd](https://github.com/hafidaso) <!-- Replace with your name and GitHub profile link -->
 
 ## License
 
