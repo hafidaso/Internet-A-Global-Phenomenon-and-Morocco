@@ -3,7 +3,7 @@
 
 An in-depth analysis of global internet access and adoption from 1990 to 2020.
 
-![Banner Image: Global Internet Map](banner_image.png) <!-- Replace with the link to any banner image you want to use -->
+![Banner Image: Global Internet Map](https://github.com/hafidaso/Internet-A-Global-Phenomenon-and-Morocco/blob/6dd8341cb35d64480017235b3b56809803d27472/banner_image.png) <!-- Replace with the link to any banner image you want to use -->
 
 ## Table of Contents
 
